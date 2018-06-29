@@ -1,0 +1,6 @@
+framework module DPImageSlideShow {
+  umbrella header "DPImageSlideShow-umbrella.h"
+
+  export *
+  module * { export * }
+}

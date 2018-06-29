@@ -1,0 +1,22 @@
+PODS:
+  - DPImageSlideShow (0.1.0)
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - DPImageSlideShow (from `../`)
+  - Nimble (~> 7.0.2)
+  - Quick (~> 1.2.0)
+
+EXTERNAL SOURCES:
+  DPImageSlideShow:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DPImageSlideShow: 33b05866ed78bb393b8eb546eab89da13a2455b5
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: 5dc1f2e792c1f65cb3f2ed0a572f833212d14c51
+
+COCOAPODS: 1.4.0
