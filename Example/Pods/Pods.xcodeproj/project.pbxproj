@@ -430,11 +430,11 @@
 			isa = PBXGroup;
 			children = (
 				14D406520648CB6FC711D728B634E34C /* DPImageSlideShow */,
-				657BFDFB20E5AD5B00C2E130 /* DPImageSlideShowCollectionView.swift */,
-				657BFDFD20E5AD5B00C2E130 /* DPImageSlideShowIndexView.swift */,
 				657BFDFF20E5AD5C00C2E130 /* DPImageSlideShowView.swift */,
+				657BFDFB20E5AD5B00C2E130 /* DPImageSlideShowCollectionView.swift */,
 				657BFDFC20E5AD5B00C2E130 /* DPImageSlideShowViewDatasource.swift */,
 				657BFDFE20E5AD5C00C2E130 /* DPImageSlideShowViewPresenter.swift */,
+				657BFDFD20E5AD5B00C2E130 /* DPImageSlideShowIndexView.swift */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";

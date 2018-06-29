@@ -16,7 +16,7 @@ public class DPImageSlideShowView: UIView {
     fileprivate var collectionView: DPImageSlideShowCollectionView = DPImageSlideShowCollectionView(frame: .zero, collectionViewLayout: UICollectionViewFlowLayout())
     fileprivate var indexView: DPImageSlideShowIndexView = DPImageSlideShowIndexView(frame: .zero)
     
-    override init(frame: CGRect) {
+    override public init(frame: CGRect) {
         super.init(frame: frame)
     }
     
